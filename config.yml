@@ -3,7 +3,7 @@ email:              meem.ahsan@gmail.com
 description:        Data Science topics & tricks and resources
 author:             Accidental Data Scientist
 baseurl:            ""
-url:                "https://accidentaldatascientist.github.io"
+url:                "/"
 
 # Social Profiles
 twitter_username:   
