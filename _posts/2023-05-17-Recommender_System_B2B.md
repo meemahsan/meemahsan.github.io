@@ -2,7 +2,7 @@
 layout: post
 title: "Next Best Product to Buy for B2B Sales"
 subtitle: ""
-background: '/img/posts/Automl/automl_background.jpg'
+background: '/img/posts/B2B_Recommender_Sytem/B2B_Recommeder_System.jpg'
 ---
 ## What is it?
 In today’s day and age, B2B companies are always on the lookout for ways to optimize their selling process and increase revenue. B2B companies can offer their clients the “next best product to buy” by leveraging a recommender system. A recommender system uses available data and machine learning algorithm to predict and offer the best product/services for a specific client. Recommender systems are very commonly used in B2C companies, specifically in Ecommerce, retailers, media and social networking. Recommender systems leverage the power of machine learning algorithms and big data to pair up the correct product and services to the right customer base.
