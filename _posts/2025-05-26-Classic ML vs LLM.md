@@ -50,7 +50,7 @@ Often the best approach is to combine both:
 * Use LLMs to preprocess or embed text into structured vectors, then feed into classic ML for prediction.
 * Use classic ML models to score or validate outputs of LLMs.
 
-![Decision Workflow](/img/posts/ClassicMLLLM/Picture1.png)
+![ClassicMLLLM](/img/posts/ClassicMLLLM/Picture1.png)
 
 
 ## Sources
