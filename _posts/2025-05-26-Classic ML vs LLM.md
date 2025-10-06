@@ -28,21 +28,21 @@ representations from vast text data and can generalize to diverse tasks through 
 
 Step 1: What kind of data do you have?
 * Structured/tabular data (numbers, categories, metrics) :arrow_right: lean toward classic ML.
-* Unstructured data (text, documents, conversations, multimodal content) :arrow_right: lean toward LLMs.
+* Unstructured data (text, documents, conversations, multimodal content) &rarr; lean toward LLMs.
  
 Step 2: What is the primary task?
-* Prediction (classification, regression, forecasting, anomaly detection, churn modeling, risk scoring, etc.) :arrow_right: Classic ML is usually more efficient and interpretable.
-* Understanding or generating natural language (summarization, Q&A, chatbot, content creation, semantic search, translation, document analysis) :arrow_right: : LLMs excel.
+* Prediction (classification, regression, forecasting, anomaly detection, churn modeling, risk scoring, etc.) &rarr; Classic ML is usually more efficient and interpretable.
+* Understanding or generating natural language (summarization, Q&A, chatbot, content creation, semantic search, translation, document analysis) &rarr; LLMs excel.
  
 Step 3: What are your constraints?
-* Need interpretability / explainability (finance, healthcare, regulated industries)? :arrow_right: Classic ML.
-* Okay with some “black box” reasoning as long as accuracy and usability are high? :arrow_right: LLM.
-* Limited compute resources, real-time latency requirements? :arrow_right: Classic ML is leaner.
-* Ample compute budget, batch or asynchronous tasks? :arrow_right: LLM is fine.
+* Need interpretability / explainability (finance, healthcare, regulated industries)? &rarr; Classic ML.
+* Okay with some “black box” reasoning as long as accuracy and usability are high? &rarr; LLM.
+* Limited compute resources, real-time latency requirements? &rarr;Classic ML is leaner.
+* Ample compute budget, batch or asynchronous tasks? &rarr; LLM is fine.
  
 Step 4: How much data do you have?
-* Small labeled dataset, structured features :arrow_right: Classic ML (tree-based methods often excel).
-* Large amounts of unstructured data (millions of documents, user queries, transcripts, reviews) :arrow_right: Pre-trained LLMs (possibly fine-tuned).
+* Small labeled dataset, structured features &rarr; Classic ML (tree-based methods often excel).
+* Large amounts of unstructured data (millions of documents, user queries, transcripts, reviews) &rarr; Pre-trained LLMs (possibly fine-tuned).
  
 Step 5: Is hybrid best?
 
@@ -54,8 +54,8 @@ Often the best approach is to combine both:
 
 
 ## Sources
-1. <Jordan, M. I., & Mitchell, T. M. (2015). "Machine learning: Trends, perspectives, and prospects." Science, 349(6245), 255–260. https://doi.org/10.1126/science.aaa8415>
-2. <Domingos, P. (2012). "A few useful things to know about machine learning." Communications of the ACM, 55(10), 78–87. https://doi.org/10.1145/2347736.2347755>
-3. </Aswani, A., et al. (2017). "Attention Is All You Need." Advances in Neural Information Processing Systems (NeurIPS). https://arxiv.org/abs/1706.03762>
-4. <Bommasani, R., et al. (2021). "On the Opportunities and Risks of Foundation Models." Stanford HAI. https://arxiv.org/abs/2108.07258>
-5. <Zhang, C., & Bengio, Y. (2021). "Bridging machine learning and deep learning for tabular data." arXiv preprint. https://arxiv.org/abs/2106.03253>
+1. Jordan, M. I., & Mitchell, T. M. (2015). "Machine learning: Trends, perspectives, and prospects. Science, 349(6245), 255–260". <https://doi.org/10.1126/science.aaa8415>
+2. Domingos, P. (2012). "A few useful things to know about machine learning." Communications of the ACM, 55(10), 78–87. <https://doi.org/10.1145/2347736.2347755>
+3. /Aswani, A., et al. (2017). "Attention Is All You Need." Advances in Neural Information Processing Systems (NeurIPS). <https://arxiv.org/abs/1706.03762>
+4. Bommasani, R., et al. (2021). "On the Opportunities and Risks of Foundation Models." Stanford HAI. <https://arxiv.org/abs/2108.07258>
+5. Zhang, C., & Bengio, Y. (2021). "Bridging machine learning and deep learning for tabular data." arXiv preprint. <https://arxiv.org/abs/2106.03253>
