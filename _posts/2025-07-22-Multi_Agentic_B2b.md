@@ -104,7 +104,7 @@ Candidate Generation & Recommendation Types
 * Small controlled online experiments (A/B testing by region/rep) with proper randomization and gating via Orchestration agent.
 * Uplift/counterfactual measurement when possible (holdout groups).
 ### Serving modes & latency
-* Real-time (sub-200ms): score a single account/contact on demand (for UI). Keep model light or use cached model; Feature Agent must support online lookups.
+* Real-time scoring : score a single account/contact on demand (for UI). Keep model light or use cached model; Feature Agent must support online lookups.
 * Batch nightly: re-score all accounts for next-day prioritization (large scale ranking).
 * Streaming: immediate alerts when Bombora intent spikes or major product event occurs; push to reps.
 UX / Sales & Marketing integration
