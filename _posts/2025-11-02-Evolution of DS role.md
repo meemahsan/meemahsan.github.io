@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "The Next Evolution of Data Scientists: Thriving in the Era of Agentic AI"
+subtitle: ""
 background: '/img/posts/B2B_Recommender_Sytem/B2B_Recommeder_System.jpg'
 ---
 ### Introduction
+
 Over the past decade, data scientists have evolved from statisticians into machine learning innovators. They are skilled at designing models that power personalization, pricing, forecasting, and targeting across industries. But the next five years will be crucial in redefining the profession once again.
 
 We are entering the **age of Agentic AI** — where autonomous, goal-driven AI systems don’t just predict outcomes but _act_, _reason_,  _course correct, and _collaborate_ with humans to achieve business goals. In this new era, the data scientist’s role will transform dramatically — from model builder to **AI system architect**, from analyst to **strategic orchestrator** of intelligent agents.
