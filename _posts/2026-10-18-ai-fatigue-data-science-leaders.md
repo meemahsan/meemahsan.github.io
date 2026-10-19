@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Fatigue Is Real — Even for Data Science Leaders"
+subtitle: ""
 background: '/img/posts/B2B_Recommender_Sytem/B2B_Recommeder_System.jpg'
 date: 2026-10-18
 ---
