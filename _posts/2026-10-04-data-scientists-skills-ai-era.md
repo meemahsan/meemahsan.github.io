@@ -2,7 +2,7 @@
 layout: post
 title: "The Data Scientist’s Job Is Changing. What Should We Teach Our Teams?"
 subtitle: ""
-date: 2026-10-20
+date: 2026-10-04
 ---
 
 ## Introduction
